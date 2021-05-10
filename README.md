@@ -1,2 +1,2 @@
 # psychjs
-javascrip and psychology
+javascript and psychology
